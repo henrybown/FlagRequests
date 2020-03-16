@@ -1,0 +1,10 @@
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\bin\Debug\FlagEmails.exe.config
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\bin\Debug\Embassies.csv
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\bin\Debug\FlagEmails.exe
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\bin\Debug\FlagEmails.pdb
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\obj\Debug\FlagEmails.csprojResolveAssemblyReference.cache
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\obj\Debug\FlagEmails.exe
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagEmails\FlagEmails\obj\Debug\FlagEmails.pdb
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagRequests\FlagEmails\bin\Debug\FlagEmails.exe.config
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagRequests\FlagEmails\obj\Debug\FlagEmails.exe
+C:\Users\henry.bown\Desktop\Workspace\Playground\Flag Emails\FlagRequests\FlagEmails\obj\Debug\FlagEmails.pdb
